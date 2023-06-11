@@ -14,15 +14,15 @@ I am 18 y.o
 
 I started coding about 1 years ago.
 
-At the beginning I want to create website.
+At the beginning I wanted create websites.
 
 For this I started to learn HTML AND CSS.
 
 => NOW...🖥️⌨️
 
-I am writing code with this languages:
+I am writing code with this language:
 
-✔️HTML ✔️CSS ✔️JAVASCRIPT ✔️REACT.JS
+✔️REACT.JS
 
 (I like to write code with react and css)
 
