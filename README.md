@@ -9,4 +9,4 @@
 
 * JavaScript
 * HTML/CSS
-* react ⚛️
+* React ⚛️
