@@ -6,7 +6,7 @@ Hi,Everybody.👋
 
 I am Muradov Jamil.
 
-I am from Ganja/Azerbaijan.
+I am from Azerbaijan.
 
 I am 18 y.o
 
