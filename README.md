@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @JamilDeveloper1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My personal repository
 
-<!---
-JamilDeveloper1/JamilDeveloper1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi,Everybody.👋
+
+=> I will talk about about myself.
+
+I am Muradov Jamil.
+
+I am from Ganja/Azerbaijan.
+
+I am 18 y.o
+
+=> My Coding Journey...💻
+
+I started coding about 1 years ago.
+
+At the beginning I want to create website.
+
+For this I started to learn HTML AND CSS.
+
+=> NOW...🖥️⌨️
+
+I am writing code with this languages:
+
+✔️HTML ✔️CSS ✔️JAVASCRIPT ✔️REACT.JS
+
+(I like to write code with react and css)
+
+Thanks for reading, I hope you didn't get bored while reading.
