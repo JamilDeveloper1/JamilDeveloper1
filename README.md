@@ -1,29 +1,12 @@
-My personal repository
+👋 Hello! I'm a front-end developer and specifically working on React. 
 
-Hi,Everybody.👋
+🚀 I am passionate and experienced in software development. While sharing my projects here, we also try to contribute to new technologies and open source projects. 
 
-=> I will talk about about myself.
+🌱I am happy to cooperate with those who are interested and learn new things.
 
-I am Muradov Jamil.
 
-I am from Azerbaijan.
+💻 Among the languages and technologies I use:
 
-I am 18 y.o
-
-=> My Coding Journey...💻
-
-I started coding about 1 years ago.
-
-At the beginning I wanted create websites.
-
-For this I started to learn HTML AND CSS.
-
-=> NOW...🖥️⌨️
-
-I am writing code with this language:
-
-✔️REACT.JS
-
-(I like to write code with react and css)
-
-Thanks for reading, I hope you didn't get bored while reading.
+* JavaScript
+* HTML/CSS
+* react ⚛️
