@@ -7,7 +7,7 @@
 
 💻 Among the languages and technologies I use:
 
-* JavaScript
 * HTML/CSS
+* JavaScript
 * React ⚛️
 * Tailwindcss 
